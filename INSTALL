@@ -1,0 +1,9 @@
+Building HALOX
+
+See doc/readme-qt.rst for instructions on building HALOX-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HALOX.
+
+See doc/build-*.txt for instructions on building haloxd,
+the intended-for-services, no-graphical-interface, reference
+implementation of HALOX.
